@@ -1,0 +1,59 @@
+.ini{
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+}
+
+.font{
+
+  color: black;
+  font-size: 18px;
+  text-align: justify;
+}
+
+.mgs{
+max-height: 100px;
+max-width:  50px;
+
+}
+
+.nava{
+min-height:  100px;
+
+}
+
+.pag{
+  padding-top: 15px;
+}
+
+.cir{
+  opacity: 0.7;
+  border-radius: 250px;
+
+}
+#iu {
+  font-size: 15px;
+  border: 1px solid black;
+}
+
+.hei{
+height: 296px;
+}
+
+.hei2{
+  height: 183px;
+}
+
+.max{
+  width: 100%;
+border-radius: 10px;
+height: 200px;
+}
+
+.cont{
+width: 100%;
+opacity: 0.5;
+border-radius: 50%;
+height: 300px;
+
+}
